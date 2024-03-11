@@ -1,0 +1,32 @@
+.business-container {
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-start;
+}
+
+.logo-container {
+  margin-right: 20px;
+}
+
+.details-container {
+  text-align: right;
+}
+
+.business-logo {
+  width: 100px; /* Adjust the size as needed */
+  height: auto; /* Adjust the size as needed */
+  border-radius: 50%; /* Makes the logo circular */
+}
+
+.header {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+p {
+  margin: 5px 0;
+}
+.container{
+  display: flex;
+  justify-content: center;
+}
